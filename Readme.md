@@ -4,7 +4,7 @@ This is a sample that uses the Antlr4 parser to
 create a syntax tree for javascript function, and
 shows how to traverse the syntax tree to insert additional
 code or checking statements to create another syntactically
-corret javascript function.
+correct javascript function.
 
 A sample javascript example is included in the test directory.
 
